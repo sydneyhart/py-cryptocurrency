@@ -27,4 +27,4 @@ def test_cryptocurrency_action(
     ):
         result = cryptocurrency_action(current_rate)
 
-    assert result == expected_result your code here
+    assert result == expected_result
